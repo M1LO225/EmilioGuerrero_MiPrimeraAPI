@@ -15,8 +15,6 @@ namespace EmilioGuerrero_MiPrimeraAPI.Controllers
                 Id = 1,
                 Nombre = "Emilio",
                 Edad = 19,
-                FechaNacimiento = DateTime.Now,
-                EstaInscrito = true
             };
             return estudiante;
 
